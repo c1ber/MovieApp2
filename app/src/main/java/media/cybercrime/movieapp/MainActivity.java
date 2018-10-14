@@ -14,8 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     //AsyncTask
     public class FetchMovies extends AsyncTask<Void,Void,Void> {
-
-
+        
         @Override
         protected Void doInBackground(Void... voids) {
             return null;
