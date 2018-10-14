@@ -13,7 +13,7 @@
         android:gravity="center_horizontal"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:columnWidth="200dp"
+        android:columnWidth="@dimen/grid_col_width"
         android:numColumns="auto_fit"
         />
 
